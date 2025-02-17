@@ -1,3 +1,43 @@
 <resources>
-    <string name="app_name">AndroidApp213</string>
+    <string name="app_name">Android-213</string>
+
+    <string name="main_tv_title">Знайомство з Android</string>
+    <string name="main_btn_calc">Калькулятор</string>
+
+    <string name="calc_tv_title">Калькулятор</string>
+    <string name="calc_btn_0">0</string>
+    <string name="calc_btn_1">1</string>
+    <string name="calc_btn_2">2</string>
+    <string name="calc_btn_3">3</string>
+    <string name="calc_btn_4">4</string>
+    <string name="calc_btn_5">5</string>
+    <string name="calc_btn_6">6</string>
+    <string name="calc_btn_7">7</string>
+    <string name="calc_btn_8">8</string>
+    <string name="calc_btn_9">9</string>
+    <string name="calc_btn_percent">%</string>
+    <string name="calc_btn_ce">CE</string>
+    <string name="calc_btn_c">C</string>
+    <string name="calc_btn_backspace">\u232b</string>
+    <string name="calc_btn_inv">⅟x</string>
+    <string name="calc_inv_tpl">1 / (%s) =</string>
+    <string name="calc_btn_sqr">x²</string>
+    <string name="calc_btn_sqrt">√x</string>
+    <string name="calc_btn_div">÷</string>
+    <string name="calc_btn_mul">×</string>
+    <string name="calc_btn_sub">−</string>
+    <string name="calc_btn_add">+</string>
+    <string name="calc_btn_equal">=</string>
+    <string name="calc_btn_dot">,</string>
+    <string name="calc_btn_pm">±</string>
+    <string name="calc_err_div_zero">Деление на 0</string>
+    <string name="calc_err">Ошибка</string>
+
+
+    <string name="calc_btn_memory_clear">MC</string>  <!-- Очистить память -->
+    <string name="calc_btn_memory_recall">MR</string>  <!-- Вызвать значение из памяти -->
+    <string name="calc_btn_memory_plus">M+</string>  <!-- Добавить к значению в памяти -->
+    <string name="calc_btn_memory_minus">M−</string>  <!-- Вычесть из значения в памяти -->
+    <string name="calc_btn_memory_store">MS</string>  <!-- Сохранить в память -->
+    <string name="calc_btn_memory_dropdown">M∨</string>  <!-- Выпадающий список памяти -->
 </resources>

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "itstep.learning.androidapp213"
+    namespace = "com.example.android_213"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "itstep.learning.androidapp213"
+        applicationId = "com.example.android_213"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
